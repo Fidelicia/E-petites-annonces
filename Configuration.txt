@@ -1,0 +1,2 @@
+Frontend: streamlit run app.py
+Mobile: python main.py
